@@ -32,5 +32,5 @@
 <img src="https://imgur.com/LbNKPwQ.png" width="200"/>
 </div>
 
-![Snake animation](https://github.com/gabrielvieira-web/gabrielvieira-web/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielvieira-web/blob/output/github-contribution-grid-snake.svg)
 
